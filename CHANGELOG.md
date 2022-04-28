@@ -1,3 +1,9 @@
+## 3.2.2
+* Fixed incorrect permission handling on v2 embedding (re-ynd)
+
+## 3.2.1
+* Fixed incorrect query generation when using multiple query params (AR553)
+
 ## 3.2.0
 * Migration to v2 embedding
 * Minor native code refactoring
